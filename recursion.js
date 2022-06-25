@@ -13,9 +13,9 @@
 //     console.log(b)
 // return pri(a,b-1)
 
-// }pri(50,60)
+// }pri(40,50)
 
-//Print all the even numbers in the given range
+// Print all the even numbers in the given range
 // function even(a,b){
 //     if(a>b){
 //         return
@@ -28,9 +28,9 @@
 //     if(b%2==0){
 //         console.log(b)
 //     }
-// }even(101,115)
+// }even(200,345)
 
-//Find the factorial of a given number n.
+// Find the factorial of a given number n.
 // function fact(num,facto){
 
 //     if(num>0){
@@ -39,13 +39,13 @@
 //     }
 //     return facto
 // }
-// console.log(fact(12,1))
+// console.log(fact(18,1))
 
 
 
 //Find the nth digit of the fibonacci series.
 // function fibo(first,second,counter){
-//     if(counter<10){
+//     if(counter<16){
 //        var c= first+second;
 //        return fibo(second,c,counter+1);
 //     }
@@ -116,3 +116,7 @@
 //     return x*pow(x,n-1)
 //  }
 //  console.log(pow(2,4))
+
+
+
+//
